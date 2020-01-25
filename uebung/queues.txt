@@ -1,0 +1,75 @@
+## QUEUES ##
+# Teil 1 #
+a.move(b)
+a.move(b)
+a.move(c)
+a.move(a)
+c.move(a)
+b.move(a)
+a.move(a)
+b.move(a)
+
+# Teil 2 #
+a.move(b)
+a.move(a)
+a.move(b)
+a.move(b)
+a.move(a)
+b.move(a)
+b.move(a)
+b.move(a)
+
+# Teil 3 #
+a.move(b)
+a.move(a)
+a.move(c)
+a.move(a)
+c.move(a)
+b.move(a)
+a.move(a)
+
+## STACKS ##
+
+# TEIL 1 #
+a.move(b)
+a.move(c)
+a.move(c)
+a.move(c)
+a.move(c)
+b.move(a)
+c.move(b)
+c.move(b)
+c.move(b)
+c.move(a)
+b.move(c)
+b.move(a)
+c.move(a)
+b.move(a)
+
+# Teil 2 #
+a.move(b)
+a.move(c)
+a.move(c)
+a.move(b)
+a.move(c)
+b.move(a)
+b.move(a)
+c.move(a)
+c.move(a)
+c.move(a)
+
+# Teil 3 #
+a.move(b)
+a.move(c)
+a.move(b)
+a.move(c)
+a.move(c)
+a.move(c)
+b.move(a)
+c.move(b)
+c.move(a)
+c.move(a)
+c.move(a)
+b.move(a)
+
+

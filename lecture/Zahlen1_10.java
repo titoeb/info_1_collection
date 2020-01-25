@@ -1,0 +1,8 @@
+
+public class Zahlen1_10{
+	public static void main(String[] args){
+	int iter;
+	for (iter = 1; iter < 11; ++iter)
+		System.out.println(iter);
+	}
+}

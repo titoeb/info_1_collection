@@ -1,0 +1,5 @@
+cat Deutschland.txt | javac PlotFilter
+java -jar dragon.jar 10
+java -jar drawcurve.jar
+java -jar dragon.jar 10 | java -jar drawcurve.jar
+
